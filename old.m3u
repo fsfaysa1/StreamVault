@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,Bein Sports
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
 #EXTINF:-1 ,Caze TV Only For Mobile
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
@@ -37,7 +40,7 @@ http://172.17.50.112:84/ant1003/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e3/BTV_Logo.png",Star Sports Wifi only
 http://172.17.50.112:84/ant1005/video.m3u8
 
-#EXTINF:-1 tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Entertainment",Channel I HD
+#EXTINF:-1 tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="general",Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
