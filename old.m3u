@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 ,Bein Sports
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 ,Fifa 2026
+http://198.195.239.50:8095/Fifa-1/video.m3u8
 
 #EXTINF:-1 ,Caze TV Only For Mobile
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 ,Caze TV BR Only For Mobile
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 ,T Sports
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Caze TV (720) Only For Mobile
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/5f/c6/fc5fc6c2a80b12d62bc51f3d9f599b83.jpg",Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",FIFA+
 https://c822c659.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/a4288c44-0852-418a-874a-6068c1f660a7/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e3/BTV_Logo.png",BTV CTG
-https://streams.btvlive.gov.bd/live/43432837-d6af-4d02-9f8d-8134dcc28745/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+http://198.195.239.50:8095/unt-s/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e3/BTV_Logo.png",BTV NEWS
 https://streams.btvlive.gov.bd/live/43432837-d6af-4d02-9f8d-8134dcc28745/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
