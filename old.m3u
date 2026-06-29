@@ -16,8 +16,31 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",FIFA+
-https://c822c659.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/a4288c44-0852-418a-874a-6068c1f660a7/2.m3u8
+https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",Bein Sports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",Bein Sports HD
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",Mashun
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",Bein Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",FOX Sports
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",Telemu
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4f/cf/90/4fcf90ac26352230227af3995d555b8d.jpg",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e3/BTV_Logo.png",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
