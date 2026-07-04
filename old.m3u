@@ -3,7 +3,7 @@
 #EXTINF:-1 ,Fifa 2026
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 ,T Sports
+#EXTINF:-1 ,T Sports Wifi Only
 http://172.17.50.112:84/ant1005/video.m3u8
 
 #EXTINF:-1 ,Drama Series
@@ -59,9 +59,6 @@ http://172.17.50.112:84/ant1002/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e3/BTV_Logo.png",Somoy TV Wifi only
 http://172.17.50.112:84/ant1003/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e3/BTV_Logo.png",Star Sports Wifi only
-http://172.17.50.112:84/ant1005/video.m3u8
 
 #EXTINF:-1 tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="general",Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
