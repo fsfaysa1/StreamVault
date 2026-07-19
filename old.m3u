@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,Fifa 2026
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1784473165-0-0-d7c2407395589203c49f7a0674c7e093
-
 #EXTINF:-1 ,T Sports Wifi Only
 http://172.17.50.112:84/ant1005/video.m3u8
 
