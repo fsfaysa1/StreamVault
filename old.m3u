@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 ,Fifa 2026
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1784473165-0-0-d7c2407395589203c49f7a0674c7e093
 
 #EXTINF:-1 ,T Sports Wifi Only
 http://172.17.50.112:84/ant1005/video.m3u8
 
-#EXTINF:-1 ,YRF Music
-https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 ,Aditya Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,FussBall.tv
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 
-#EXTINF:-1 ,Eros music and movies
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,BEIN Sports1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 ,Drama Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
