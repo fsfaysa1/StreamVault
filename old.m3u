@@ -280,5 +280,5 @@ https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Live TV",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 group-title="Live TV",https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.postimg.cc/k58BGR2j/Music-India.webp" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
