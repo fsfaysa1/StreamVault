@@ -284,3 +284,5 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-name="GOpal bhar" tvg-logo="https://i.pinimg.com/474x/2a/bf/aa/2abfaa1ca167aacc7822de45c7558226.jpg" group-title="Kids",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://i.postimg.cc/90vys5KZ/download-(2).jpg" group-title=Entertainment",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
