@@ -282,3 +282,5 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.postimg.cc/k58BGR2j/Music-India.webp" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-name="GOpal bhar" tvg-logo="https://i.pinimg.com/474x/2a/bf/aa/2abfaa1ca167aacc7822de45c7558226.jpg" group-title="Kids",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
