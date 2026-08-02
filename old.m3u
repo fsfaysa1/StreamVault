@@ -312,4 +312,19 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Joo music" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",Joo music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Doremon" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Kids",Doremon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Tom and jerry" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Kids",Tom and jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Akash Aath" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",Akash Aath
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-name="Mr Bean" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",Mr Bean
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-name="Music masti" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="music",Music masti
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="movies",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Kids",Sony Yay
+https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
+#EXTINF:-1 tvg-name="South Movies" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Movies",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
