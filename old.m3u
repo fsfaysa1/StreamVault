@@ -232,7 +232,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 #EXTINF:-1 tvg-name="Banglavision" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Live TV",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
-#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Live TV",Channel i
+#EXTINF:-1 tvg-name=" i" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Live TV", i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723.m3u8
 #EXTINF:-1 tvg-name="Me Tv" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Live TV",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
@@ -284,7 +284,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-name="GOpal bhar" tvg-logo="https://i.pinimg.com/474x/2a/bf/aa/2abfaa1ca167aacc7822de45c7558226.jpg" group-title="Kids",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://i.postimg.cc/90vys5KZ/download-(2).jpg" group-title=Entertainment",Channel S
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="#EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.postimg.cc/k58BGR2j/Music-India.webp"  group-title="Music",Music India
 https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Live TV",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
