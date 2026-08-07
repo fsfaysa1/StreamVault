@@ -366,3 +366,5 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="O music" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",O music
 https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Sony aath" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",Sony Aath 
+https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
