@@ -370,3 +370,5 @@ https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
 https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03d33e123989497.Y3JvcCw5MDAsNzAzLDAsOTg.jpg" group-title="Entertainment",Somoy TV
 https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star jalsha" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",Star jalsha
+https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
