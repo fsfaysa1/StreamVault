@@ -364,3 +364,5 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Joo music" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",Joo music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="O music" tvg-logo="https://i.postimg.cc/q7dfTm4G/download-(3).jpg" group-title="Entertainment",O music
+https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
