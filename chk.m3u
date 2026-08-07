@@ -1,3 +1,4 @@
-
+#EXTM3U
+#PLAYLIST:Live TV Pro
 #EXTINF:-1 tvg-name="T Global News (Canada)" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
