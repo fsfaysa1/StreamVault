@@ -302,3 +302,6 @@ https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
 https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star jalsha" tvg-logo="https://i.pinimg.com/1200x/fb/81/ea/fb81ea77d70e3e57ce09ef50bd91710a.jpg" group-title="Entertainment",Star jalsha
 https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
+#EXTINF:-1 tvg-name="ZB Cartoon" group-title="Kids",ZB Cartoon
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+
