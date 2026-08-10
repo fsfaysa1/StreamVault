@@ -1,4 +1,293 @@
 #EXTM3U
-#PLAYLIST:Live TV Pro
-#EXTINF:-1 tvg-name="T Global News (Canada)" group-title="NEWS INTERNASIONAL",T Global News (Canada)
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,Ntv HD
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,Bangla vision
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,Rtv Hd
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,Atn Bangla
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,Etv
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1,Deepto Tv
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
+#EXTINF:-1,Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1,Ekattor tv HD
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1,Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1,News 24 Hd
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1,Channel 24 Hd
+https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+#EXTINF:-1,DBC News HD
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1,ATN News HD
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1,Ptv Sports
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
+#EXTINF:-1,T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1,Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,Sports 
+https://tvsen7.aynaott.com/espn/index.m3u8
+#EXTINF:-1,Sports
+https://tvsen6.aynaott.com/nfl/index.m3u8
+#EXTINF:-1,Bleav
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1,The weather channel
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+#EXTINF:-1,Sports TV
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1,Channel I 2
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,Ntv HD
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1,Banglavision HD
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#EXTINF:-1,RTV HD
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8
+#EXTINF:-1,ATN Bangla HD
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1,ETV HD
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1,Deepto HD 2
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
+#EXTINF:-1,DBC News HD
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1,Ekhon TV HD
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1,Jamuna TV HD 2
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1,ATN Bangla News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1,News 24 HD
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1,71 TV HD
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1,T Sports HD 2
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1,Desh TV HD
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1,Boishakhi tv HD
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1,Channel 9 HD
+https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8
+#EXTINF:-1,Channel 24 HD
+https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+#EXTINF:-1,Asian Tv
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+#EXTINF:-1,SATV HD
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1,Bangla Tv HD
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+#EXTINF:-1,Mohona tv HD
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+#EXTINF:-1,Nexus Television HD
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1,Bijoy tv
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
+#EXTINF:-1,Global TV HD
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+#EXTINF:-1,My TV HD
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1,Ananda TV HD
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1,BTV News HD
+https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8
+#EXTINF:-1,BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1,BTV News HD
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+#EXTINF:-1,Ruposhi Bangla TV
+https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8
+#EXTINF:-1,Sangeet bangla (Mobile Only)
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
+#EXTINF:-1,BBC News
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+#EXTINF:-1,CNN Live
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1,Al jajeera 
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1,Bloomberg Television
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+#EXTINF:-1,News Live
+https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8
+#EXTINF:-1,CNBC
+https://tvsen6.aynaott.com/cnbc/index.m3u8
+#EXTINF:-1,CP 24
+https://tvsen6.aynaott.com/cp24/index.m3u8
+#EXTINF:-1,Fox news
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1,Sky News HD
+https://tvsen5.aynaott.com/skynews/index.m3u8
+#EXTINF:-1,Somoy TV
+https://tvsen7.aynaott.com/Sports4/index.m3u8
+#EXTINF:-1,Jamuna tv 3
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1,71 tv
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1,ATN News HD
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1,News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1,DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1,Channel 24
+https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+#EXTINF:-1,Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1,BTV News 
+https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
+#EXTINF:-1,Abnurdu
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1,India today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1,R Bangla Hindi 
+https://tvsen6.aynaott.com/faGd3tuq/index.m3u8
+#EXTINF:-1,bharat_samachar
+https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
+#EXTINF:-1,News India
+https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
+#EXTINF:-1,Accu weather
+https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1,fox weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1,Weather spy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,nfl
+https://tvsen6.aynaott.com/nfl/index.m3u8
+#EXTINF:-1,Life time
+https://tvsen7.aynaott.com/lifetime/index.m3u8
+#EXTINF:-1,trt world HD
+https://tvsen7.aynaott.com/TRTWorldHD/index.m3u8
+#EXTINF:-1,MTV
+https://tvsen6.aynaott.com/mtv/index.m3u8
+#EXTINF:-1,Fox 5
+https://tvsen6.aynaott.com/fox5/index.m3u8
+#EXTINF:-1,Fox business
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1,cbs tv
+https://tvsen3.aynaott.com/34fJSjZP/index.m3u8
+#EXTINF:-1,USA TV
+https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+#EXTINF:-1,fx TV
+https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
+#EXTINF:-1,wison TV
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1,PTV Sports
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
+#EXTINF:-1,Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,NTV HD
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1,Blank
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1,Pishow Tv
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1,Banglavision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#EXTINF:-1,ATN NEws
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1,ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1,Willow 
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
+#EXTINF:-1,Fifa+
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1,RTV HD
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8
+#EXTINF:-1,Espn
+https://tvsen7.aynaott.com/espn/index.m3u8
+#EXTINF:-1,Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1,Somoy TV
+https://tvsen7.aynaott.com/Sports4/index.m3u8
+#EXTINF:-1,BTV News HD
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+#EXTINF:-1,71 TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1,Gopal bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1,Deepto TV
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
+#EXTINF:-1,ETV
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1,BBC News
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+#EXTINF:-1,Zee 24 Ghonta
+https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
+#EXTINF:-1,Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1,News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1,Talk Sports
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8
+#EXTINF:-1,Hindi Movies
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1,Bangla TV HD
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+#EXTINF:-1,NTV Europe
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1,rengrades
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+#EXTINF:-1,G Series
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+#EXTINF:-1,Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1,Republic Bangla
+https://tvsen5.aynaott.com/qRHda6ax/index.m3u8
+#EXTINF:-1,My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1,Goldmines Bollywood
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+#EXTINF:-1,Bleav Football
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1,CNBC
+https://tvsen6.aynaott.com/cnbc/index.m3u8
+#EXTINF:-1,TV PG
+https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
+#EXTINF:-1,Disney HD
+https://tvsen7.aynaott.com/disney/index.m3u8
+#EXTINF:-1,Durdorshon
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1,geo TV
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+#EXTINF:-1,SA TV 
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1,Calcutta news
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+#EXTINF:-1,Animal Planet
+https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
+#EXTINF:-1,Asian Tv
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+#EXTINF:-1,HBO
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
+#EXTINF:-1,Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1,EV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1,Go Network
+https://tvsen6.aynaott.com/nfl/index.m3u8
+#EXTINF:-1,nfl
+https://tvsen6.aynaott.com/nfl/index.m3u8
+#EXTINF:-1,Madani TV
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
+#EXTINF:-1,AMC
+https://tvsen6.aynaott.com/amc/index.m3u8
+#EXTINF:-1,Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1,Sports One
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1,Global HD
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+#EXTINF:-1,Khushboo Bangla
+https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
+#EXTINF:-1,abn
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
