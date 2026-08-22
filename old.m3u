@@ -434,3 +434,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://s3.itcnbd.live/channel/5ddddd6f407f0574.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Entertainment",Star Zalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-name="Disney Jr " group-title=" Kids ",Disney JR
+https://tvsen7.aynaott.com/disneyjr/index.m3u8
+#EXTINF:-1 tvg-name="Disney" group-title=" Kids ",Disney
+https://tvsen7.aynaott.com/disney/index.m3u8
