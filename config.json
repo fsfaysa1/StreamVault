@@ -1,6 +1,9 @@
 {
   "maintenance_mode": false,
-  "maintenance_message": "Nivo App maintenance ongoing.",
-  "apk_url": "https://example.com/nivo.apk",
-  "latest_version": "1.0.0"
+  "maintenance_message": "Nivo is currently under maintenance. We will be back shortly!",
+  "latest_version": "1.0.0",
+  "apk_url": "https://example.com/nivo-update.apk",
+  "notice_heading": "Welcome to Nivo!",
+  "notice_message": "Enjoy uninterrupted HD live streaming.",
+  "playlist_url": "https://raw.githubusercontent.com/fsfaysa1/StreamVault/refs/heads/main/old.m3u"
 }
