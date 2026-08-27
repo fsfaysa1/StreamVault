@@ -1,0 +1,6 @@
+{
+  "maintenance_mode": false,
+  "maintenance_message": "Nivo App maintenance ongoing.",
+  "apk_url": "https://example.com/nivo.apk",
+  "latest_version": "1.0.0"
+}
