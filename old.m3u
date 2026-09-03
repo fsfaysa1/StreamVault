@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:NIBO TV PRO
+#PLAYLIST:NIVO TV PRO
 #EXTINF:-1 tvg-name="T Global News (Canada)" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="Global News (US)" group-title="NEWS INTERNASIONAL",Global News (US)
@@ -616,5 +616,5 @@ https://tvsen7.aynaott.com/disney/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2 HD" group-title=" Entertainment ",Star Gold 2 HD
 http://66.102.126.10:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-name="Star Movies HD" group-title=" Movies ",Star Movies HD
+#EXTINF:-1 tvg-name="Star Movies HD" group-title="🎬 Hindi Movies",Star Movies HD
 http://202.70.146.135:8000/play/a06r/index.m3u8
