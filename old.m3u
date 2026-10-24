@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:Live TV Pro
+#PLAYLIST:NIVO TV
 #EXTINF:-1 tvg-name="Maasranga Tv" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Motor Vision" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Motor Vision
@@ -16,10 +16,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-name="AL QAMAR" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",AL QAMAR
 https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:-1 tvg-name="ALMASIRA MUBASHER" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",ALMASIRA MUBASHER
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-#EXTINF:-1 tvg-name="Amazon SAT" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Amazon SAT
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-name="Arihant TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",B4U Movies
@@ -30,8 +26,6 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",BBC Cbeebies
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-name="CNN (US)" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",CNN (US)
@@ -40,8 +34,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-name="Deshi TV (720p)" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Doraemon TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Doraemon TV
@@ -100,8 +92,6 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-name="pcv" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",pcv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-name="Peace Tv English" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Peace Tv English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-name="Peace TV Urdu" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Peace TV Urdu
@@ -156,8 +146,6 @@ https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="G-Serise" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Global TV
@@ -222,8 +210,6 @@ https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Channel 1
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Star News" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Star News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Ekattor HD
@@ -336,8 +322,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="NTV UK" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Makkah TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Zee Bangla Cinema
@@ -508,8 +492,6 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:-1 tvg-name="Dheeran TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Dheeran TV
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
-#EXTINF:-1 tvg-name="ET Now Swadesh" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",ET Now Swadesh
-https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERG EUROPE" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",BLOOMBERG EUROPE
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",CGTN
@@ -618,8 +600,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="I ON TV UK" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",I ON TV UK
 https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV Europe" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",NTV Europe
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Time Televison" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Time Televison
 https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",TV ONE
@@ -640,8 +620,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc4976
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-name="INWILD (1080p) DIGITAL/ OTT" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",INWILD (1080p) DIGITAL/ OTT
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-name="Terra Mater WILD English (1080p)" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Terra Mater WILD English (1080p)
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-name="Documentary+ (1080p) USA" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Documentary+ (1080p) USA
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Documentary+ International (1080p) USA" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Documentary+ International (1080p) USA
@@ -868,8 +846,6 @@ https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-#EXTINF:-1 tvg-name="DAZN FAST" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",DAZN FAST
-https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Movies Now HD
